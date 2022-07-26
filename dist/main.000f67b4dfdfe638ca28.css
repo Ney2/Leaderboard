@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin: 5%;
+}
+
+.wrapper {
+  display: flex;
+  gap: 5%;
+  margin: 5%;
+}
+
