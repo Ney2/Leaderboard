@@ -55,7 +55,7 @@ h1 {
 
 .leaderboard > li:nth-child(odd) {
   background-color: #182628;
-  padding: 5px ;
+  padding: 5px;
   padding-left: 10px;
   color: #fff;
   text-align: center;
@@ -70,15 +70,14 @@ h2 {
   color: #d3d3d3;
 }
 
-#name, 
+#name,
 #score {
-  background-color:#182628 ;
+  background-color: #182628;
 }
 
 #submit,
 #refresh {
   background-color: #14a76c;
-  padding: 3px;
   font-weight: bold;
   padding: 7px;
 }
