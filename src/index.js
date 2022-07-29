@@ -1,4 +1,5 @@
 import './index.css';
+
 import { fetchData } from './modules/list.js';
 import addScoreToList from './modules/add.js';
 

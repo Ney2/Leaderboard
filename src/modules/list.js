@@ -7,7 +7,7 @@ export const display = (scores) => {
     leaderboard.innerHTML = '<li>No Scores to be displayed</li>';
   }
   scores.sort((a, b) => b.score - a.score).forEach((score) => {
-    leaderboard.innerHTML += ` <li class="allScores">${score.user} : ${score.score}</li>`;
+    leaderboard.innerHTML += ` <li class="allScores">${score.user}  ${score.score}</li>`;
   });
 };
 
