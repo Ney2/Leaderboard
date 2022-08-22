@@ -18,6 +18,7 @@ Any kind of browser and code editor.
     1. Clone the repository (git clone https://github.com/Ney2/Leaderboard.git)
     2. Then open the folder in your local environment using any code editor
     3. Open terminal
+    4. Type npm install in your terminal
     4. Type npm start in your terminal, this will open the project in your browser
 
 # Author 
