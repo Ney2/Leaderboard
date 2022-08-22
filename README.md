@@ -6,6 +6,11 @@ This is a leaderboard app built using Javascript, Webpack and ES6.
 - JavaScript
 - ES6 and
 - Webpack
+
+# Live Link Demo
+
+  [See Project](https://unique-sfogliatella-e03374.netlify.app/)
+  
 # Getting Started
 
 To get a local copy up and running follow these simple example steps.
